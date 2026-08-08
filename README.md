@@ -1,4 +1,4 @@
-# S&P 500 Portfolio Analysis - Clustering and Business Intelligence insights
+# S&P 500 Portfolio Analysis - Clustering and Business Intelligence Insights
 
 ## Project Overview
 
